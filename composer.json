@@ -1,0 +1,15 @@
+{
+  "name": "nazen/sitemap-generator",
+  "description": "A library for generating sitemaps in different formats.",
+  "authors": [
+    {
+      "name": "Your Name",
+      "email": "your.email@example.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Nazen\\Sitemap\\": "src/"
+    }
+  }
+}
